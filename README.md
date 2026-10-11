@@ -1,2 +1,2 @@
-# sitecsa-updates
-Releases publicos (instaladores) de la app SITECSA CRM. El codigo fuente es privado.
+# ISP-Releases
+Releases públicos (instaladores) de la app ISP. El código fuente es privado.
